@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/screenshots/gemini-banner.png" width="120"/>
+  <img src="/screenshots/gemini-banner.png" width="300"/>
 </p>
 
 # Gemini AI Clone
