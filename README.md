@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/screenshots/gemini-banner.png" width="300"/>
+  <img src="/screenshots/gemini-banner.png" width="400"/>
 </p>
 
 # Gemini AI Clone
@@ -120,8 +120,12 @@ This project can be deployed using:
 
 **Soumya Madishetti**
 
-GitHub:
+🔗 GitHub:
 https://github.com/SoumyaMadishetti17
+
+🔗Live Demo:
+https://gemini-two-taupe.vercel.app/
+
 
 ---
 
